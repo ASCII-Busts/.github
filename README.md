@@ -1,4 +1,4 @@
-<img src="logo.png">
+<img src="logo.jpg">
 
 ### `ASCII Busts` is a creative collective and experimental digital art project exploring the intersection of history, minimalism, and web-punk aesthetics through ASCII art.
 
